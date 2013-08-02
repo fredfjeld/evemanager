@@ -3,7 +3,7 @@ Web application for Eve-Online corporation decision makers, for use on www.evema
 single entities. Currently there are no releases and there won't be for months. The project will be tested on www.evemanager.org
 before release on github.
 
-Project website is project.evemanager.org.
+Project website is [project.evemanager.org.] (http://project.evemanager.org)
 
 ## Credits
 evemanager is released under the GNU Affero General Public License, version 2. evemanager also uses data and images from EVE-Online, which is covered by a seperate license from [CCP](http://www.ccpgames.com/en/home). 
