@@ -14,7 +14,7 @@ This is ALPHA, which means it is a work in progress. It lacks documentation and 
 not meant for use in production.
 
 # Running evemanager
-
+This is a test for github
 ## Dependencies
 - PHP 5.3+
 - Apache + mod_rewrite
