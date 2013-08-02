@@ -1,6 +1,7 @@
 # evemanager
 Web application for Eve-Online corporation decision makers, for use on www.evemanager.org. But can also be used for
-single entities.
+single entities. Currently there are no releases and there won't be for months. The project will be tested on www.evemanager.org
+before released on github.
 
 
 # zKillboard
