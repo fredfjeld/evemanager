@@ -19,5 +19,5 @@ not meant for use in production.
 - PHP 5.3+
 - Apache + mod_rewrite
 - Linux, Mac OS X or Windows
-- MariaDB 5.5+/MySQL 5.5+ 
+- MariaDB/MySQL (Version 5.5+) 
 - Composer
